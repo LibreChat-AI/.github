@@ -7,7 +7,7 @@
 <h1 align="center">LibreChat</h1>
 
 <p align="center">
-  <strong>Open-source infrastructure for building and running powerful AI experiences.</strong>
+  <strong>Every AI for Everyone</strong>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <br />
 
-## Building the open AI stack
+## Building the fully Open Source Platform for AI, for Everyone
 
 LibreChat started as a unified interface for AI models and has grown into a broader open-source ecosystem for building, deploying, and extending AI applications.
 
